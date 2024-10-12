@@ -1,0 +1,5 @@
+body{margin: 0; background: rgb(94, 94, 121); color: white; font-family: sans-serif; text-align: center; line-height: 1.5; }
+label, input {font-size: 20px; padding: 0.5em;}
+#dice-chooser {margin: 2em;}
+#numSides {width: 2em; border-radius: 10px;}
+button {background: blue; color: black; font-size: 20px; padding: 1em 2em; border-radius: 10px;}
